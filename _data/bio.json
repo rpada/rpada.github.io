@@ -2,13 +2,13 @@
   "basics": {
     "name": "Rianne Pada",
     "label": "Student",
-    "picture": "https://rpada.github.io/images/image0 (1).jpeg",
+    "picture": "https://techfolios.github.io/images/image0 (1).jpeg",
     "email": "rpada@hawaii.edu",
     "phone": "808-333-4444",
     "website": "https://rpada.github.io",
     "summary": "I am studying for a BBA in Management Information Systems at the Shidler College of Business at the University of Hawaii. I expect to graduate in Fall, 2021.",
     "location": {
-      "address": "",
+      "address": "123",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -28,30 +28,30 @@
       {
         "network": "twitter",
         "username": "mollymal",
-        "url": "https://www.twitter.com"
+        "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
         "username": "molly",
-        "url": "https://www.instagram.com"
-      },
+        "url": "http://instagram.com/changeme"
+      }
     ]
   },
   "interests": [
     {
-      "name": "software development",
+      "name": "internet of things",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "DevSecOps",
+      "name": "data mining",
       "keywords": [
       ]
     },
     {
-      "name": "Journaling",
+      "name": "artificial intelligence",
       "keywords": [
       ]
     }
@@ -167,4 +167,3 @@
     }
   ]
 }
- 
