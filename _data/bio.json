@@ -1,15 +1,12 @@
 {
   "basics": {
     "name": "Rianne Pada",
-    "label": "Student",
+    "label": "Student and Intern",
     "picture": "https://rpada.github.io/images/Rianne.jpg",
     "email": "rpada@hawaii.edu",
-    "phone": "808-333-4444",
     "website": "https://rpada.github.io",
-    "summary": "I am studying for a BBA in Management Information Systems at the Shidler College of Business at the University of Hawaii. I expect to graduate in Fall, 2021.",
+    "summary": "I am studying for a BBA in Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Fall, 2021.",
     "location": {
-      "address": "123",
-      "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -25,16 +22,6 @@
         "username": "rianne-pada",
         "url": "https://www.linkedin.com/in/rianne-pada-9040a0198/"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
@@ -73,6 +60,7 @@
         "MacOS",
         "Git/GitHub",
         "WordPress CMS",
+        "Squarespace CMS",
       ]
     }
   ],
