@@ -6,10 +6,10 @@
     "email": "rpada@hawaii.edu",
     "phone": "808-333-4444",
     "website": "https://rpada.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.B.A. in Management Information Systems in the Shidler College of Business at the University of Hawaii at Manoa. I expect to graduate in Fall, 2021.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96826",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "rpada",
+        "url": "http://github.com/rpada"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "rianne-pada",
+        "url": "https://www.linkedin.com/in/rianne-pada-9040a0198/"
       },
       {
         "network": "twitter",
@@ -39,19 +39,19 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Mental breakdowns",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Programming",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "DIY Arts and crafts",
       "keywords": [
       ]
     }
@@ -61,12 +61,10 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
+        "CSS",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML",
+        "Content Management Systems"
       ]
     },
     {
@@ -74,90 +72,87 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "WordPress",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+    
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Management Information Systems (expected Fall, 2021)",
+      "studyType": "B.B.A.",
+      "startDate": "2018-08-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.97",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "RevaComm",
+      "position": "Business Analyst Intern",
+      "website": "https://www.revacomm.com/",
+      "startDate": "2020-04-20",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Head of website management",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "UI/UX designs for social media",
+        "Manage and update RevaComm's website"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Whole Foods Market",
+      "position": "Grocery Team Member",
+      "website": "https://www.wholefoodsmarket.com/",
+      "startDate": "2017-02-14",
+      "endDate": "Present",
+      "summary": "Organizing and selling products to customers",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Customer service",
+        "Anticipating need when restocking shelves"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Student Media Board",
+      "website": "http://www.manoanow.org/smb/",
+      "position": "Vice Chair",
+      "startDate": "2019-02-07",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Overseeing board duties",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Providing leadership",
+        "Helping lead projects and intiatives"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Ho'ohui Intiative",
+      "website": "https://hoohuiinitiative.org/",
+      "position": "Service Management Team Member",
+      "startDate": "7/14/20",
+      "endDate": "Present",
+      "summary": "Updating and managing website",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Helping in data analytics"
       ]
     }
   ],
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2018-2019",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Provost Achievement Scholar",
+      "date": "2018-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "I was awarded a four year scholarship for my achievements in academics and extracurriculars in high school."
     }
   ],
   "references": [
