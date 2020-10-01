@@ -61,12 +61,12 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
+        "CSS",
+        "HTML",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "WordPress",
+        "Squarespace",
+        "Json"
       ]
     },
     {
@@ -74,48 +74,48 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "WordPress CMS",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows OS",
+        "Microsoft Suite"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Management Information Systems (expected Fall, 2021)",
+      "studyType": "B.B.A.",
+      "startDate": "2018-08-20",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.97",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "RevaComm",
+      "position": "Business Analyst Intern",
+      "website": "revacomm.com",
+      "startDate": "2020-04-20",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Management of website",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "UI/UX designing for social media",
+        "Updating website"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Whole Foods Market",
+      "position": "Grocery Team Member",
+      "website": "wholefoodsmarket.com",
+      "startDate": "2017-02-14",
+      "endDate": "Present",
+      "summary": "Customer service",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Anticipating need and filling shelves",
+        "Helping and guiding customers"
       ]
     }
   ],
