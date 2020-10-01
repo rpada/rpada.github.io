@@ -121,43 +121,43 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Student Media Board",
+      "website": "http://www.manoanow.org/smb/",
+      "position": "Vice Chair",
+      "startDate": "2019-02-07",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Overseeing board duties",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Meeting minutes",
+        "Aiding in fee increase proposal"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Ho'ohui Initiative",
+      "website": "https://hoohuiinitiative.org/",
+      "position": "Service management team member",
+      "startDate": "2020-07-09",
+      "endDate": "Present",
+      "summary": "Website management and data analysts",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Updating website",
+        "Working on surveys",
+        "Analyzing survey results"
       ]
     }
   ],
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2018-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Provost Achievement Scholar",
+      "date": "2018-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "I recieved a four year scholarship for my academic achievement and extracurriculars in high school."
     }
   ],
   "references": [
