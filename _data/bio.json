@@ -37,21 +37,21 @@
       }
     ]
   },
-  "interests": [
+   "interests": [
     {
-      "name": "Mental breakdowns",
+      "name": "internet of things",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "Programming",
+      "name": "data mining",
       "keywords": [
       ]
     },
     {
-      "name": "DIY Arts and crafts",
+      "name": "artificial intelligence",
       "keywords": [
       ]
     }
@@ -61,10 +61,12 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "CSS",
+        "C",
+        "C++",
+        "Java",
         "Javascript",
-        "HTML",
-        "Content Management Systems"
+        "Assembly",
+        "Common Lisp"
       ]
     },
     {
@@ -72,87 +74,90 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "WordPress",
+        "Ubuntu",
         "Git/GitHub",
-    
+        "g++",
+        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems (expected Fall, 2021)",
-      "studyType": "B.B.A.",
-      "startDate": "2018-08-01",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.S.",
+      "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "3.97",
+      "gpa": "",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "RevaComm",
-      "position": "Business Analyst Intern",
-      "website": "https://www.revacomm.com/",
-      "startDate": "2020-04-20",
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2015-08-01",
       "endDate": "Present",
-      "summary": "Head of website management",
+      "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "UI/UX designs for social media",
-        "Manage and update RevaComm's website"
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "Whole Foods Market",
-      "position": "Grocery Team Member",
-      "website": "https://www.wholefoodsmarket.com/",
-      "startDate": "2017-02-14",
-      "endDate": "Present",
-      "summary": "Organizing and selling products to customers",
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
       "highlights": [
-        "Customer service",
-        "Anticipating need when restocking shelves"
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Student Media Board",
-      "website": "http://www.manoanow.org/smb/",
-      "position": "Vice Chair",
-      "startDate": "2019-02-07",
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
       "endDate": "Present",
-      "summary": "Overseeing board duties",
+      "summary": "Lead developer for weather sensing project",
       "highlights": [
-        "Providing leadership",
-        "Helping lead projects and intiatives"
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
-      "organization": "Ho'ohui Intiative",
-      "website": "https://hoohuiinitiative.org/",
-      "position": "Service Management Team Member",
-      "startDate": "7/14/20",
-      "endDate": "Present",
-      "summary": "Updating and managing website",
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Helping in data analytics"
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2018-2019",
+      "date": "2013-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "Provost Achievement Scholar",
-      "date": "2018-Present",
-      "awarder": "University of Hawaii at Manoa",
-      "summary": "I was awarded a four year scholarship for my achievements in academics and extracurriculars in high school."
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
@@ -162,4 +167,3 @@
     }
   ]
 }
-   
