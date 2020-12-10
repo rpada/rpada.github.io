@@ -31,7 +31,7 @@ function add_to_cart (i) {
    } 
 So the session storage should save the product${i} data.
  
-3. How will you avoid access to your application when the user has not logged in or registered? What are the particular security concerns you must address?
+3.How will you avoid access to your application when the user has not logged in or registered? What are the particular security concerns you must address?
 
 I will avoid access to my application when the user is not logged in by writing an if / else statement. Basically, if the code recognizes that there is a user logged in with a cookie, they are able to access their invoice. If there is no cookie present, then they can’t see the invoice. Some security concerns I must address is stuff like making sure another user can’t see and edit another user’s cart, making sure others can’t use the same cookie, and making sure that when the invoice is processed it is secure. 
 
@@ -44,7 +44,9 @@ I’ve been attempting to show personalization by doing <script>document.write(`
 Instead of taking the username from the query string, I would take the username in the cookie and add it to the cart or invoice. 
 
 5. If you are working with partners, how will you split up the work in your team so that you are working in parallel as effectively as possible? That is, who is doing what and when?
+
 I am not working with a partner. 
 
 6. How are you approaching Assignment 3 differently than Assignment 2?
+
 I’m starting way earlier. I am thinking more about what needs to be done in advance and planning better before starting. 
