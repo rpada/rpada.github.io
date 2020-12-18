@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: A3 Checkpoint
 # All dates must be YYYY-MM-DD format!
-date: 2020-12--3
+date: 2020-12-03
 labels:
   - Assignment 3
   - Checkpoint
