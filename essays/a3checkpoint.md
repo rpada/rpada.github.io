@@ -20,6 +20,7 @@ I miraculously accomplished almost everything I set out to do! The only thing I 
 
 A “bug” is that because I have an “all” page and separate pages, if you add the same product twice it will show up twice in the cart. Also, didn’t really destroy the session when the user checks out and the email is sent.
  
+ 
 3.         What was your biggest project risk and how was it managed?
 
 
